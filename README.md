@@ -1,6 +1,6 @@
 # Docker and Kubernetes : The Complete Guide #
 ##### Based on the course from udemy.
-##### contains full notes and explanations encountered during the course.
+##### Contains full notes and explanations encountered during the course.
 
 
 ### Section 1
@@ -8,5 +8,8 @@
 --------------
 * **[Why User Docker](https://linkgithub)**  : short explanation here
 * **[Installing Docker for Windows Profressional](https://linkgithub)** : 
+
+
+[//]: # (This syntax works like a comment, and won't appear in any output.)
 
 
